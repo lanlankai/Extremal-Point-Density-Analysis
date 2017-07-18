@@ -6,8 +6,8 @@ A matlab code for fast extremal-point-density analysis. Please cite the followin
 @Article{Huang2017PRE,
   Title                    = {{Extremal-Point Density of Scaling Processes: From Fractal Brownian Motion to Turbulence}},
   Author                   = {Huang, Y.X. and Wang, L.P. and Schmitt, F.G. and Zheng, X.B. and Jiang N. and  Liu, Y.L.},
-  Journal                  = {Phys. Rev. E (preparation)},
+  Journal                  = {Phys. Rev. E},
   Year                     = {2017},
-  Pages                    = {xx},
-  Volume                   = {xx}
+  Pages                    = {012215},
+  Volume                   = {96}
 }
